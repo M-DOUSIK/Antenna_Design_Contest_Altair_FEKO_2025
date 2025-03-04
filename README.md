@@ -23,17 +23,6 @@ This project explores the design and simulation of an **elliptical reflector ant
 - **Altair FEKO**: Used for **antenna modeling and electromagnetic simulation**.
 - **MATLAB/Python** *(optional)*: For **data analysis and post-processing**.
 
-## Repository Structure
-```
-📂 Antenna_Project
-│-- 📂 Design_Files            # CAD and simulation files
-│-- 📂 Results                 # Simulation results and plots
-│-- 📂 Documentation           # Research papers, notes, and reference materials
-│-- 📜 README.md               # Project overview and instructions
-│-- 📄 Presentation.pptx        # Final presentation
-│-- 🎥 Video_Demo.mp4          # Demonstration video
-```
-
 ## Installation & Usage
 1. **Clone the repository**:
    ```sh
@@ -55,4 +44,4 @@ Contributions are welcome! Feel free to submit issues, suggestions, or pull requ
 ## Contact
 For questions or collaboration, reach out via:
 - **Email**: [m.dousik@gmail.com](mailto:m.dousik@gmail.com)
-- **LinkedIn**: [Dowsik Manokaran](https://www.linkedin.com/in/dousikmanokaran)
+- **LinkedIn**: [Dousik Manokaran](https://www.linkedin.com/in/dousikmanokaran)
