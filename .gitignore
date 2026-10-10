@@ -1,0 +1,8 @@
+# FEKO backups and temporary files
+*.bak
+*.tmp
+*.lock
+
+# OS
+.DS_Store
+Thumbs.db
